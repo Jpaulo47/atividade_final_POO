@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Visitante {
+public class Visitante extends Pessoa{
+    // Classe Visitante não possui atributos ou métodos adicionais
 }
