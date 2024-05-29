@@ -1,3 +1,5 @@
+
+//TODO: LINK DO REPOSITORIO: https://github.com/Jpaulo47/atividade_final_POO/tree/main
 public class Main {
     public static void main(String[] args) {
         // Criação de objetos Disciplina
@@ -90,3 +92,5 @@ public class Main {
 
 //Comentarios sobre envio
 //João paulo da silva rodrigues - 2319025
+//Sabrina dos Santos Alves - 2326657
+//Tulio gomes Cezar - 2326233
